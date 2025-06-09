@@ -3,7 +3,7 @@
 Hello everyone, I'm a high school student about to enter my senior year, and I'm interested in many different fields. Due to lack of time, you'll discover them as I publish my projects, in different programming languages (Python, C/C++, HTML, CSS, ...), in different universes such as 3D with Blender and Minecraft, AI, electromechanics with Arduino and Raspberry Pi, or python libraries ...
 
 ## 📊 Statistiques GitHub
-![Stats GitHub](https://github-readme-stats.vercel.app/api?usernameArchange-py&show_icons=true&theme=radical)
+![Archange's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archange-py&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ## Contacts
 
